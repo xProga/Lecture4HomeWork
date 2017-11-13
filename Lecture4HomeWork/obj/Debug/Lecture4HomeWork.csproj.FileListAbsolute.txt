@@ -1,0 +1,2 @@
+c:\users\proga\documents\visual studio 2012\Projects\Lecture4HomeWork\Lecture4HomeWork\bin\Debug\Lecture4HomeWork.exe.config
+C:\Users\Proga\Documents\Visual Studio 2012\Projects\Lecture4HomeWork\Lecture4HomeWork\obj\Debug\Lecture4HomeWork.csprojResolveAssemblyReference.cache
